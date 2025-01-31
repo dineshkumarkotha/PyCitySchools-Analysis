@@ -23,6 +23,7 @@ To run this project locally, you'll need to have Python 3.x installed along with
 - pandas
 - numpy
 
+## Usage
 You can install the required libraries using pip:
 
 ```bash
@@ -45,7 +46,7 @@ Copy
 jupyter notebook PyCitySchools_starter.ipynb
 Run the notebook cells to perform the analysis and view the results.
 
-Results
+## Results
 The analysis provides insights into the performance of schools in the district. Key findings include:
 
 Top Performing Schools: Charter schools generally outperform district schools in both math and reading scores.
@@ -60,7 +61,7 @@ Scores by School Size: Smaller schools tend to have higher overall passing rates
 
 Scores by School Type: Charter schools have higher overall passing rates compared to district schools.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -73,7 +74,7 @@ Push your branch to your forked repository.
 
 Submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to customize this README.md file to better fit your project's needs. You can add more sections, such as acknowledgments, or provide more detailed instructions on how to run the analysis.
